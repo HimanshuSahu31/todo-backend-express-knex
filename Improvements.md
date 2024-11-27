@@ -61,5 +61,12 @@ organisation_id(FK - organisation.id), user_id(FK - users.id)
 - Delete comments - cascade delete to sub-comments
 
 
+## Implementation
+
+### Iteration 1
+- User signup/login
+- CRUD Todo
+- CRUD Sub-Todo
+
 
 
